@@ -1,0 +1,13 @@
+order_id,order_date,customer_id,city,product,quantity,unit_price,revenue
+1001,2026-09-01,C001,Barranquilla,Teclado,2,85000,170000
+1002,2026-09-01,C002,Bogota,Mouse,3,45000,135000
+1003,2026-09-02,C003,Medellin,Monitor,1,780000,780000
+1004,2026-09-02,C001,Barranquilla,Mouse,2,45000,90000
+1005,2026-09-03,C004,Cali,Teclado,1,85000,85000
+1006,2026-09-03,C005,Bogota,Monitor,2,780000,1560000
+1007,2026-09-04,C006,Medellin,Audifonos,2,120000,240000
+1010,2026-09-05,C009,Bogota,Audifonos,1,120000,120000
+1011,2026-09-06,C010,Medellin,Teclado,2,85000,170000
+1013,2026-09-07,C012,Barranquilla,Mouse,4,45000,180000
+1014,2026-09-07,C013,Bogota,Teclado,1,85000,85000
+1015,2026-09-08,C014,Medellin,Audifonos,3,120000,360000

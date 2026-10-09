@@ -1,0 +1,4 @@
+order_id,order_date,customer_id,city,product,quantity,unit_price
+1009,2026-09-05,C008,Barranquilla,Teclado,-1,85000
+1012,2026-09-06,C011,Cali,Monitor,1,-780000
+1008,2026-09-04,C007,Cali,Mouse,0,45000
